@@ -16,3 +16,6 @@ Cara penggunaan
 7. Tunggu hingga selesai
 
 !! Surat dengan sifat Rahasia tidak akan terarsipkan otomatis
+Tools Arsip Otomatis Nadine
+Pengarsipan Otomatis Nadine
+Nadine Automatic
