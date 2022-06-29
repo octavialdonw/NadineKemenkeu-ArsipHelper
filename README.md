@@ -1,4 +1,4 @@
-# NadineArsipHelper
+# NadineKemenkeu-ArsipHelper
 Nadine adalah sebuah aplikasi kantor digital atau persuratan secara elektronik oleh salah satu kementerian sultan di Indonesia. Kadang kala kita terlalu banyak menerima surat sehingga susah sekali untuk dapat melakukan arsip secara masal. Sedangkan di sistem saat ini hanya tersedia fitur untuk pengarsipan secara satu persatu surat. Maka Nadine Arsip Helper dapat membatu pekerjaan Anda!
 
 Yang perlu dibutuhkan adalah
